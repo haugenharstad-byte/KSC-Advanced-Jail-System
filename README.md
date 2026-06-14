@@ -1,5 +1,7 @@
 # 🚔 Kris Jail System
 
+# Showcase Video: https://www.youtube.com/watch?v=WQvp2RmSkis
+
 A full prison system for FiveM with jail commands, prison jobs, progression, contraband, searching, commissary, escape gameplay, inventory handling, and framework support for Qbox, QBCore, and ESX.
 
 This script is built to give jail actual gameplay instead of just waiting out a timer. Prisoners can work time off, earn prison resources, level jobs, buy contraband, search for materials, craft escape tools, and attempt a tunnel escape.
